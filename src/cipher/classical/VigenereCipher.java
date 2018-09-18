@@ -1,6 +1,6 @@
 package cipher.classical;
 
-public class OneTimePad {
+public class VigenereCipher {
 	
 	String key;
 	
