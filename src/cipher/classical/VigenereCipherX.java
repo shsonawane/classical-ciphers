@@ -1,6 +1,6 @@
 package cipher.classical;
 
-public class VigenereCipher {
+public class VigenereCipherX {
 	
 	String key;
 	
