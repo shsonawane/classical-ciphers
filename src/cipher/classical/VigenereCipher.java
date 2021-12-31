@@ -4,7 +4,7 @@ public class VigenereCipher {
 	
 	String key;
 	
-	public OneTimePad(String key) {
+	public VigenereCipher(String key) {
 		this.key = key;
 	}
 	
